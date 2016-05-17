@@ -6,3 +6,6 @@ This is a quick sample of using storyboards with parent-child viewcontrollers - 
 The child viewcontrollers are lazy-loaded and is based on Mike Woelmer's iOS tutorial:
 https://spin.atomicobject.com/2015/09/02/switch-container-views/
 
+![](demo.gif)
+
+![](storyboard.png)
