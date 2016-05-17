@@ -1,0 +1,8 @@
+DerivedData
+Build
+storyboardDemo.xcodeproj/project.xcworkspace/xcuserdata
+storyboardDemo.xcodeproj/xcuserdata
+xcuserdata
+!default.xcworkspace
+*.pbxuser
+*.xcworkspace
